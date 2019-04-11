@@ -5,6 +5,10 @@ XML 外部实体攻击。
 * Blind 返回中没有显示输出或者错误
 * Error 尝试从错误页面获取信息。
 
+参考：
+
+[https://www.acunetix.com/blog/articles/xml-external-entity-xxe-vulnerabilities/](https://www.acunetix.com/blog/articles/xml-external-entity-xxe-vulnerabilities/)
+
 ```
 <?xml version="1.0" standalone="yes" ?>
 <!DOCTYPE author [
